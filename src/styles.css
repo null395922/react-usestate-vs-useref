@@ -1,0 +1,12 @@
+body {
+  padding: 100px;
+}
+
+.App {
+  font-family: sans-serif;
+  max-width: 500px;
+}
+
+button {
+  margin-top: 10px;
+}
